@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@adobe/pdfservices-node-sdk": "^3.4.0",
+    "adm-zip": "^0.5.10",
+    "csv-writer": "^1.6.0"
+  }
+}

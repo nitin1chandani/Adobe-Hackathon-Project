@@ -1,4 +1,4 @@
-# Papyru Nebulae Project
+# Papyrus Nebulae Project
 
 The project uses PDF Extract API by Adobe to read invoices given in .pdf format and convert the pdf data into csv file
 so that it would become easy work businesses
